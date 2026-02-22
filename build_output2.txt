@@ -1,0 +1,52 @@
+﻿[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 111 modules transformed.
+node.exe : [31mΓ£ù[39m 
+Build failed in 458ms
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (  
+  [31mΓ£ù[39m Build fa   
+ iled in 458ms:String)    
+ [], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+[31merror during build:
+[31mCould not resolve 
+"../store/useStore" from "
+src/components/layout/Side
+bar.jsx"[31m
+file: [36mE:/Antigravity/
+productivity-dashboard/src
+/components/layout/Sidebar
+.jsx[31m
+    at getRollupError (fil
+e:///E:/Antigravity/produc
+tivity-dashboard/node_modu
+les/rollup/dist/es/shared/
+parseAst.js:402:41)
+    at error (file:///E:/A
+ntigravity/productivity-da
+shboard/node_modules/rollu
+p/dist/es/shared/parseAst.
+js:398:42)
+    at ModuleLoader.handle
+InvalidResolvedId (file://
+/E:/Antigravity/productivi
+ty-dashboard/node_modules/
+rollup/dist/es/shared/node
+-entry.js:21710:24)
+    at file:///E:/Antigrav
+ity/productivity-dashboard
+/node_modules/rollup/dist/
+es/shared/node-entry.js:21
+670:26[39m
